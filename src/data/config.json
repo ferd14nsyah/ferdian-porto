@@ -1,0 +1,51 @@
+{
+  "job": "Frontend Developer",
+  "name": "Ferdiansyah",
+  "desc": "Currently learning Fullstack Javascript and Python",
+  "aboutDesc": "Halo, saya Ferdiansyah, seorang Frontend Web Developer yang memiliki keahlian dalam framework JavaScript seperti VueJS. Saya sangat antusias dalam mempelajari hal-hal baru dan selalu berusaha untuk mengikuti perkembangan teknologi terbaru. Selain itu, saya juga memiliki kemampuan kolaborasi yang kuat, sehingga dapat bekerja sama dengan tim secara efektif untuk mencapai tujuan bersama.",
+  "email": "ferdiisyah09@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://www.linkedin.com/in/ferdiansyah09/",
+  "projects": [
+    {
+      "project-name": "Kostsan",
+      "project-desc": "VueJs + Tailwindcss. Pemesanan atau Booking Kostsan,Apartemen dan Hotel ",
+      "project-url": "https://kostsan.vercel.app/"
+    },
+    
+    {
+      "project-name": "Dzikrhub",
+      "project-desc": "Vite + Tailwindcss. Berisi doa doa, dzikir, asmaul husna dan membaca Alquran",
+      "project-url": "https://dzikrhub.vercel.app/"
+    },
+    {
+      "project-name": "Kamihikouki Airliness",
+      "project-desc": "React + Bootstrap. Final Project Kampus Merdeka at Binar Academy",
+      "project-url": "https://kamihikouki.vercel.app/"
+    },
+    {
+      "project-name": "Micommerce",
+      "project-desc": "Vite + Tailwindcss. Website E-commerce dengan data dummy dari fakestoreapi.com",
+      "project-url": "https://micommerce.vercel.app/"
+    },
+    {
+      "project-name": "Copas Capt",
+      "project-desc": "Vite + Tailwindcss. Quotes kekinian yang bisa di copy paste",
+      "project-url": "https://copas-capt.vercel.app/"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/ferdipalevii/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "hhttps://github.com/ferd14nsyah/"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/ferdiansyah09/"
+    }
+  ]
+}
